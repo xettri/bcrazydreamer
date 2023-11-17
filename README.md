@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcrazydreamer&show_icons=true&theme=tokyonight)](https://github.com/bcrazydreamer)
+<!---[![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcrazydreamer&show_icons=true&theme=tokyonight)](https://github.com/bcrazydreamer)-->
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
